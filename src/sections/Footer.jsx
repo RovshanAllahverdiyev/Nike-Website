@@ -10,7 +10,7 @@ const Footer = () => {
         
         <div className="flex flex-col items-start">
 
-          <a href="/">
+          <a href="#home">
             <img src={footerLogo} alt="logo" width={150} height={150} className="m-0" />
           </a>
 
